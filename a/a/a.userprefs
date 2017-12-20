@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2DAC4D2E-F52A-452A-A218-BF9B82BEEC6B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccountProfileFragment.cs">
+    <Files>
+      <File FileName="AccountProfileFragment.cs" Line="24" Column="1" />
+      <File FileName="CreateContactActivity.cs" Line="95" Column="1" />
+      <File FileName="DashBoard.cs" Line="14" Column="15" />
+      <File FileName="MainActivity.cs" Line="24" Column="31" />
+      <File FileName="ContactsFragment.cs" Line="54" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="a" expanded="True">
+            <Node name="a" expanded="True">
+              <Node name="AccountProfileFragment.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/shynarjeleunova/Projects/a/a/DashBoard.cs" relfile="DashBoard.cs" line="122" column="1" />
+      <Breakpoint enabled="false" file="/Users/shynarjeleunova/Projects/a/a/MessageContentAdapter.cs" relfile="MessageContentAdapter.cs" line="35" column="1" />
+      <Breakpoint enabled="false" file="/Users/shynarjeleunova/Projects/a/a/DashBoard.cs" relfile="DashBoard.cs" line="139" column="1" />
+      <Breakpoint enabled="false" file="/Users/shynarjeleunova/Projects/a/a/MessageContentAdapter.cs" relfile="MessageContentAdapter.cs" line="14" column="1" />
+      <Breakpoint enabled="false" file="/Users/shynarjeleunova/Projects/a/a/MessageContentAdapter.cs" relfile="MessageContentAdapter.cs" line="37" column="1" />
+      <Breakpoint enabled="false" file="/Users/shynarjeleunova/Projects/a/a/MessageContentAdapter.cs" relfile="MessageContentAdapter.cs" line="22" column="1" />
+      <Breakpoint enabled="false" file="/Users/shynarjeleunova/Projects/a/a/MessageContentAdapter.cs" relfile="MessageContentAdapter.cs" line="46" column="1" />
+      <Breakpoint enabled="false" file="/Users/shynarjeleunova/Projects/a/a/DashBoard.cs" relfile="DashBoard.cs" line="77" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.a AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_25" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
